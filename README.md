@@ -27,8 +27,8 @@ Programming assigment that deals with Data Wrangling and Data Visualization in t
   ![image](https://github.com/user-attachments/assets/8b5dc06a-cb1a-4cdb-910c-17cd10fed315)
 
   ## Version History
-  1.0 - 10:01 AM 09/17/2024
-  1.1 - 5:49 PM  09/17/2024
+-  1.0 - 10:01 AM 09/17/2024                                                                                                                                                                                                                                                 
+-  1.1 - 5:49 PM  09/17/2024
 
   
 
