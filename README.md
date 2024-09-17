@@ -39,8 +39,8 @@ For the graph of Track, Average, and Hometown
 To answer the question posed in this problem does the chosen track in college, gender, or hometown contributes to a higher average score? Looking at the graphs there is not that much difference in when it comes to comparing the graphs that has the gender and the graph which has the hometown but with that said, looking at the graphs individually can tell many things. Looking at the graph with the gender the two genders both have a track in which they are significantly better at while also having one track in which they are pretty much the same. The graph for the hometown tells a different story, even though mindanao and visayas have higher averages and median scores than luzon in one track they were left behind in the other with there being a significant gap.
 
   ## Version History
--  1.0 - 10:01 AM 09/17/2024                                                                                                                                                                                                                                                 
--  1.1 - 5:49 PM  09/17/2024
-
+-  1.0 - 10:01 AM 09/17/2024 - added readme file        
+-  1.1 - 5:49 PM  09/17/2024 - Updated readme and added Programming assignment 4.ipnyb
+-  1.3 - 9:53 PM  09/17/2024 - Updated readme and updated Programming assignment 4.ipnyb
   
 
